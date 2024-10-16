@@ -1,5 +1,4 @@
 # MACHINE-LEARNING-MODELS
-Here's a **README** description for your repository containing various machine learning models like Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, and more.
 
 ---
 
@@ -12,10 +11,8 @@ Welcome to the **Machine Learning Models Repository**, a collection of basic imp
 - **Logistic Regression**
 - **Support Vector Machine (SVM)**
 - **Decision Tree**
-- More to come!
 
-## Repository Structure
-Each model is implemented in a separate Python script or Jupyter Notebook, showcasing the following fundamental steps:
+
 
 ### 1. Importing Necessary Libraries
 Before starting with any machine learning project, we import the necessary libraries such as:
